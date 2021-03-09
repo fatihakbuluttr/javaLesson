@@ -2,7 +2,7 @@ package lesson06;
 
 import java.util.Scanner;
 
-public class lesson06 {
+public class forLoop {
 
     public static void main(String[] args) {
 

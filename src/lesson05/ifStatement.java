@@ -2,7 +2,7 @@ package lesson05;
 
 import java.util.Scanner;
 
-public class lesson05 {
+public class ifStatement {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package lesson07;
 
 import java.util.Scanner;
 
-public class lesson07 {
+public class caseLoop {
     public static void main(String[] args) {
 
 /* int kart_no;

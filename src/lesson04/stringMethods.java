@@ -2,7 +2,7 @@ package lesson04;
 
 import java.util.Locale;
 
-public class lesson04 {
+public class stringMethods {
     public static void main(String[] args) {
         String name = "Fatih ";
         String last_name = "Akbulut";
@@ -24,6 +24,7 @@ public class lesson04 {
 
 
 
+
         String full_name = name + last_name;
 
         System.out.println("full name:" + full_name);
@@ -39,6 +40,18 @@ public class lesson04 {
         System.out.println(esitmi2);
         System.out.println(a);
         System.out.println(b);
+
+        System.out.println("------------------");
+
+        String mesaj="Bugün hava çok güzel";
+        System.out.println(mesaj.indexOf("a"));
+        System.out.println(mesaj.lastIndexOf("h"));
+        System.out.println(mesaj.substring(2,8));
+
+        for (String kelime:mesaj.split(" ")){
+            System.out.println(kelime);
+        }
+
 
 
 

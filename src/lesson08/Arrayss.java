@@ -1,13 +1,8 @@
 package lesson08;
 
-import java.sql.Array;
-import java.util.Arrays;
-import java.util.Scanner;
-
-public class lessom08 {
+public class Arrayss {
     public static void main(String[] args) {
-
-        /*
+         /*
         String gun;
         Scanner girdi = new Scanner(System.in);
         System.out.print("gun girin:");
@@ -173,13 +168,17 @@ public class lessom08 {
             System.out.print(array[i]+"--");
         }
         System.out.println();
-        Arrays.sort(array);
+        java.util.Arrays.sort(array);
         for (int i = 0; i < array.length; i++) {
             System.out.print(array[i]+"--");
         }
 
 
 
-        }
-   }
+    }
+}
+
+
+
+
 

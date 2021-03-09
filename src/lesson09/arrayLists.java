@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class lesson09 {
+public class arrayLists {
     public static void main(String[] args) {
 
        /* int[] my_array = {1789,2035,1899,1456,2013,1458,2458,1254,1472,
