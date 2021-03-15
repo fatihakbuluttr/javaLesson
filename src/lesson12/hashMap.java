@@ -76,6 +76,14 @@ public class hashMap {
         newMap.remove("ar");
         System.out.println(newMap);
 
+        System.out.println("----------------------------");
+
+        for (Map.Entry mapElement : newMap.entrySet()){
+
+            System.out.print(mapElement.getKey()+":" );
+            System.out.println(mapElement.getValue()+",");
+        }
+
 
 
 
